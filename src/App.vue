@@ -10,6 +10,7 @@
 import NavbarComponent from '@/components/NavBarComponent'
 import TableComponent from '@/components/TableComponent'
 import ProductListComponent from '@/components/ProductListComponent'
+import CartComponent from '@/components/CartComponent'
 
 export default {
   name: 'App',
